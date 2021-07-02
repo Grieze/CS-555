@@ -1,0 +1,11 @@
+﻿  CS 555 Assignment 2.cpp
+C:\Users\Aaron\source\repos\CS 555 Assignment 2\CS 555 Assignment 2\CS 555 Assignment 2.cpp(13,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aaron\source\repos\CS 555 Assignment 2\CS 555 Assignment 2\CS 555 Assignment 2.cpp(55,38): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Aaron\source\repos\CS 555 Assignment 2\CS 555 Assignment 2\CS 555 Assignment 2.cpp(173,86): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\CS 555 Assignment 2\CS 555 Assignment 2\CS 555 Assignment 2.cpp(176,77): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\CS 555 Assignment 2\CS 555 Assignment 2\CS 555 Assignment 2.cpp(208,196): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  CS 555 Assignment 2.vcxproj -> C:\Users\Aaron\source\repos\CS 555 Assignment 2\x64\Debug\CS 555 Assignment 2.exe

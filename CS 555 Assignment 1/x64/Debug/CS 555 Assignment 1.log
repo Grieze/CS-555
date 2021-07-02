@@ -1,0 +1,5 @@
+﻿  CS 555 Assignment 1.cpp
+C:\Users\Aaron\source\repos\CS 555 Assignment 1\CS 555 Assignment 1\CS 555 Assignment 1.cpp(28,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\CS 555 Assignment 1\CS 555 Assignment 1\CS 555 Assignment 1.cpp(34,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\CS 555 Assignment 1\CS 555 Assignment 1\CS 555 Assignment 1.cpp(149,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CS 555 Assignment 1.vcxproj -> C:\Users\Aaron\source\repos\CS 555 Assignment 1\x64\Debug\CS 555 Assignment 1.exe
